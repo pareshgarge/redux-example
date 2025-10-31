@@ -215,9 +215,9 @@ Then open the URL shown (usually [http://localhost:5173/](http://localhost:5173/
 
 You can now:
 
-✅ Enter a **username** & **userId** → store updates in Redux
-✅ Displayed values come from the Redux store
-✅ Click **Logout** → resets Redux state
+* ✅ Enter a **username** & **userId** → store updates in Redux
+* ✅ Displayed values come from the Redux store
+* ✅ Click **Logout** → resets Redux state
 
 ---
 
