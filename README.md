@@ -1,8 +1,3 @@
-Here’s a clean, well-formatted **`README.md`** file for the content you provided 👇
-
----
-
-```markdown
 # 🧠 React + Redux Toolkit User Info Example
 
 This project demonstrates how to use **Redux Toolkit** with **React (Vite)** to manage global user data such as `username` and `userId`.
@@ -35,11 +30,7 @@ Think of it as a **central store** where all your app’s data lives.
 3. The **reducer** updates the **store**  
 4. **Components** subscribed to the store re-render with new data  
 
-```
-
 UI → dispatch(action) → reducer → newState → UI updates
-
-````
 
 ---
 
@@ -51,7 +42,7 @@ UI → dispatch(action) → reducer → newState → UI updates
 npm create vite@latest redux-demo -- --template react
 cd redux-demo
 npm install
-````
+```
 
 ### Step 2: Install Redux Toolkit & React Redux
 
@@ -248,20 +239,6 @@ You can now:
 
 ---
 
-### 🧾 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ### 👨‍💻 Author
 
-Created with ❤️ by **Paresh Garge**
-
-```
-
----
-
-Would you like me to make it **GitHub-ready** (with badges, screenshots, and a demo section)?  
-That version would look perfect for uploading to your repo.
-```
+Created with ❤️ by **Govind Garge**
